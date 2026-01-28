@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Archivo
+Author: Omnibus-Type
+Url: https://fonts.google.com/specimen/Archivo
+
+Font: Edu VIC WA NT Beginner
+Author: Tina Anderson,Corey Anderson
+Url: https://fonts.google.com/specimen/Edu+VIC+WA+NT+Beginner
